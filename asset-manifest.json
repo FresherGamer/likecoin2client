@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/likecoin2client/static/css/main.69d3d7d9.chunk.css",
-    "main.js": "/likecoin2client/static/js/main.a21009a7.chunk.js",
-    "runtime-main.js": "/likecoin2client/static/js/runtime-main.5a364434.js",
-    "static/js/2.3e6aa17a.chunk.js": "/likecoin2client/static/js/2.3e6aa17a.chunk.js",
-    "index.html": "/likecoin2client/index.html",
-    "precache-manifest.9fad810d52097c413a68f1f4bce4885b.js": "/likecoin2client/precache-manifest.9fad810d52097c413a68f1f4bce4885b.js",
-    "service-worker.js": "/likecoin2client/service-worker.js",
-    "static/js/2.3e6aa17a.chunk.js.LICENSE.txt": "/likecoin2client/static/js/2.3e6aa17a.chunk.js.LICENSE.txt"
+    "main.css": "/FresherGamer/likecoin2client/static/css/main.69d3d7d9.chunk.css",
+    "main.js": "/FresherGamer/likecoin2client/static/js/main.82c5ec0c.chunk.js",
+    "runtime-main.js": "/FresherGamer/likecoin2client/static/js/runtime-main.a4630bad.js",
+    "static/js/2.3316e12c.chunk.js": "/FresherGamer/likecoin2client/static/js/2.3316e12c.chunk.js",
+    "index.html": "/FresherGamer/likecoin2client/index.html",
+    "precache-manifest.e7ab66ed2899bb283475139c3d7c9367.js": "/FresherGamer/likecoin2client/precache-manifest.e7ab66ed2899bb283475139c3d7c9367.js",
+    "service-worker.js": "/FresherGamer/likecoin2client/service-worker.js",
+    "static/js/2.3316e12c.chunk.js.LICENSE.txt": "/FresherGamer/likecoin2client/static/js/2.3316e12c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a364434.js",
-    "static/js/2.3e6aa17a.chunk.js",
+    "static/js/runtime-main.a4630bad.js",
+    "static/js/2.3316e12c.chunk.js",
     "static/css/main.69d3d7d9.chunk.css",
-    "static/js/main.a21009a7.chunk.js"
+    "static/js/main.82c5ec0c.chunk.js"
   ]
 }
