@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.69d3d7d9.chunk.css",
-    "main.js": "/static/js/main.957f5259.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.44423184.js",
-    "static/js/2.0c21fe0d.chunk.js": "/static/js/2.0c21fe0d.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.99b631ee4b4063659b45bc2c5ee68809.js": "/precache-manifest.99b631ee4b4063659b45bc2c5ee68809.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/2.0c21fe0d.chunk.js.LICENSE.txt": "/static/js/2.0c21fe0d.chunk.js.LICENSE.txt"
+    "main.css": "/likecoin2client/static/css/main.69d3d7d9.chunk.css",
+    "main.js": "/likecoin2client/static/js/main.e1bf330f.chunk.js",
+    "runtime-main.js": "/likecoin2client/static/js/runtime-main.5a364434.js",
+    "static/js/2.f33ee020.chunk.js": "/likecoin2client/static/js/2.f33ee020.chunk.js",
+    "index.html": "/likecoin2client/index.html",
+    "precache-manifest.ea1e636e8e5140a9222e40722a24841c.js": "/likecoin2client/precache-manifest.ea1e636e8e5140a9222e40722a24841c.js",
+    "service-worker.js": "/likecoin2client/service-worker.js",
+    "static/js/2.f33ee020.chunk.js.LICENSE.txt": "/likecoin2client/static/js/2.f33ee020.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.44423184.js",
-    "static/js/2.0c21fe0d.chunk.js",
+    "static/js/runtime-main.5a364434.js",
+    "static/js/2.f33ee020.chunk.js",
     "static/css/main.69d3d7d9.chunk.css",
-    "static/js/main.957f5259.chunk.js"
+    "static/js/main.e1bf330f.chunk.js"
   ]
 }
