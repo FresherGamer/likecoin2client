@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/likecoin2client/precache-manifest.c352bdde21a0fb9fb168d3bc0633f15d.js"
+  "/likecoin2client/precache-manifest.af30d7e388c061bb36287162ab075a14.js"
 );
 
 self.addEventListener('message', (event) => {
