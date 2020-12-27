@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/likecoin2client/static/css/main.69d3d7d9.chunk.css",
-    "main.js": "/likecoin2client/static/js/main.4b0ac33a.chunk.js",
+    "main.js": "/likecoin2client/static/js/main.9140e2c6.chunk.js",
     "runtime-main.js": "/likecoin2client/static/js/runtime-main.5a364434.js",
     "static/js/2.f33ee020.chunk.js": "/likecoin2client/static/js/2.f33ee020.chunk.js",
     "index.html": "/likecoin2client/index.html",
-    "precache-manifest.ed11e43dc41363482f7ebff0d9d53168.js": "/likecoin2client/precache-manifest.ed11e43dc41363482f7ebff0d9d53168.js",
+    "precache-manifest.c352bdde21a0fb9fb168d3bc0633f15d.js": "/likecoin2client/precache-manifest.c352bdde21a0fb9fb168d3bc0633f15d.js",
     "service-worker.js": "/likecoin2client/service-worker.js",
     "static/js/2.f33ee020.chunk.js.LICENSE.txt": "/likecoin2client/static/js/2.f33ee020.chunk.js.LICENSE.txt"
   },
@@ -13,6 +13,6 @@
     "static/js/runtime-main.5a364434.js",
     "static/js/2.f33ee020.chunk.js",
     "static/css/main.69d3d7d9.chunk.css",
-    "static/js/main.4b0ac33a.chunk.js"
+    "static/js/main.9140e2c6.chunk.js"
   ]
 }

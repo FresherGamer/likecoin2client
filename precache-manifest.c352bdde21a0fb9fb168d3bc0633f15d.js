@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d324e614fd1253f802cdaeddd3c7abb0",
+    "revision": "a2ba3eb5718ad84b376d19861868ddce",
     "url": "/likecoin2client/index.html"
   },
   {
-    "revision": "0b0ac8b5e54a919b2ed1",
+    "revision": "1b35ef94b1d1fda8eacc",
     "url": "/likecoin2client/static/css/main.69d3d7d9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/likecoin2client/static/js/2.f33ee020.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0b0ac8b5e54a919b2ed1",
-    "url": "/likecoin2client/static/js/main.4b0ac33a.chunk.js"
+    "revision": "1b35ef94b1d1fda8eacc",
+    "url": "/likecoin2client/static/js/main.9140e2c6.chunk.js"
   },
   {
     "revision": "9a2093bcdd4fdd547dd8",
